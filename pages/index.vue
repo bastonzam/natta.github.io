@@ -15,7 +15,7 @@
             nuxt
             :to="{name:'project-id',params:{id:p.slug}}"
           >
-            Show detail of {{p.title}}
+            Show detail of  {{p.title}}
           </v-btn>
         </v-card-actions>
       </v-card>
